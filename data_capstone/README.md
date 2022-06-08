@@ -32,9 +32,9 @@ Pandas has great libraries for all the exploratory Data Analysis that I wanted t
 
 ### Describe and Gather Data
 Data Sources:
-- [https://www.trade.gov/national-travel-and-tourism-office](I94 Immigration Data): This data comes from the US National Tourism and Trade Office. A data dictionary is included in the workspace. 
-- [https://www.kaggle.com/datasets/berkeleyearth/climate-change-earth-surface-temperature-data](World Temperature Data): This dataset came from Kaggle. 
-- [https://public.opendatasoft.com/explore/dataset/us-cities-demographics/export/](U.S. City Demographic Data): This data comes from OpenSoft. 
+- [https://www.trade.gov/national-travel-and-tourism-office] (I94 Immigration Data): This data comes from the US National Tourism and Trade Office. A data dictionary is included in the workspace. 
+- [https://www.kaggle.com/datasets/berkeleyearth/climate-change-earth-surface-temperature-data] (World Temperature Data): This dataset came from Kaggle. 
+- [https://public.opendatasoft.com/explore/dataset/us-cities-demographics/export/] (U.S. City Demographic Data): This data comes from OpenSoft. 
 
 ## Step 2: Explore and Assess the Data
 ### Explore the Data
