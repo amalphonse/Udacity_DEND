@@ -63,7 +63,7 @@ The Conceptual data model is attached as a `png` file. I am using a Star Schema 
 
 |Fact table|Dimensional tables|
 |---|---|
-`fact_immigration`|`dim_airline`|
+|`fact_immigration`|`dim_airline`|
 ||`dim_temperature`|
 ||`dim_demographics`|
 ||`dim_personal_info`|
