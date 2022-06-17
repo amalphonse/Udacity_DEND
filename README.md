@@ -20,10 +20,9 @@ The project follows the follow steps:
 
 In this project I will be integrating three data sets the immigration dataset, the temperature dataset and the US cities demographics dataset to create a data analytics table that can help answer questions like
 
-- Immigrants move to US cities with what kind of demographics staistics?
-
-- Immigrants move to US cities with what kind of temperature, do they move to warmer weather or cooler weather?
-
+- Does immigrants move to US cities with what kind of demographics staistics?
+- Does immigrants move to US cities with what kind of temperature?
+- Do they move to warmer weather or cooler weather?
 - Do they move to cities with a larger population or less population?
 
 For this project I have used [Pandas](https://pandas.pydata.org/) and [Numpy](https://numpy.org/) as tools.
