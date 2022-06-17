@@ -3,7 +3,7 @@ import configparser
 
 # CONFIG
 config = configparser.ConfigParser()
-config.read('dwh.cfg')
+config.read('configs/dwh.cfg')
 
 # DROP TABLES
 
