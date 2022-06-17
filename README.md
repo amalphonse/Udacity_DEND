@@ -20,7 +20,6 @@ The project follows the follow steps:
 
 In this project I will be integrating three data sets the immigration dataset, the temperature dataset and the US cities demographics dataset to create a data analytics table that can help answer questions like
 
-<<<<<<< HEAD
 - Immigrants move to US cities with what kind of demographics staistics?
 - Immigrants move to US cities with what kind of temperature? Do they move to warmer weather or cooler weather?
 - Do they move to cities with a larger population or less population?
